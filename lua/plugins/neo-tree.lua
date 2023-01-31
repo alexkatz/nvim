@@ -1,4 +1,3 @@
-print('i am here')
 return {
   {
     'nvim-neo-tree/neo-tree.nvim',
